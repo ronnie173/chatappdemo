@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "45907102136",
+    "project_id": "fir-chattut-cf386",
+    "storage_bucket": "fir-chattut-cf386.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45907102136:android:1412c740770f079bd1a74d",
+        "android_client_info": {
+          "package_name": "com.appsian.kotlinmessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45907102136-fd6b25sto5la8gl7fmfepftl73s0g7qs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjZVgI_4QdLEHWknZHJXgrSqhfMxVDi_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45907102136-fd6b25sto5la8gl7fmfepftl73s0g7qs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
